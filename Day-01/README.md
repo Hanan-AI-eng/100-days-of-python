@@ -22,6 +22,7 @@ It then comienes both inputs to generate a fun band name.
 -Creating variables
 -Cncatenating strings 
 -Writing clean, readable code
+-len() fuction to calculate like if the input was 'ali' it will give 3 and it can calculate the space too
 
 ## What I Learned
 Today I learned how Python can stor data in a containars called variabled and how to connet two sentence in the same line using + also how to make a line of code a comment using Ctrl + / in a fast way.
