@@ -7,7 +7,7 @@
 4 \ mathematics ways to calculate
 5\type() function
 
-## Priject
+## Project
 I built a *a tip calculator*
 ## What it dose
 It can calculate the user tip By multibly the the total bill and the tip and divide it by how many people will pay
