@@ -3,7 +3,7 @@
 -import random and it's module 
 -how to make list and how to modify it 
 ## Project Name
-it is a paper, rock, scissor
+it is a *paper, rock, scissor*
 it is the traditional old game 
 
 ## Skills Practiced
@@ -27,3 +27,5 @@ it is the traditional old game
 - if I want any thing from the list I can modify it using the list_name[the number of the indeix I want to] and the list start with 0 not one and if I want to get the last one I write -1
 ## Reflection 
 it is my first time using import today lesson was a bit hard for me and fun in the same time to understand how it work and using it in diffrent ways and I hope it is not the last time to use someting interesting like this 
+## file name of the game 
+game.py
