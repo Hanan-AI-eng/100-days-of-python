@@ -1,4 +1,5 @@
-#Day 5 Python Loops
+# Day 5 Python Loops
+
 ## Topics Learned
 - the for loop how to use it
 - range() why it use
