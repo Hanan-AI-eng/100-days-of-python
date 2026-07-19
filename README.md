@@ -25,8 +25,8 @@ This repository documents my journey through Angela Yu's **100 Days of Code: The
 | [Day 2](Day-02) | Data Types | ✅ |
 | [Day 3](Day-03) | Control Flow & Logical Operators | ✅ |
 | [Day 4](Day-04) | Randomisation & Python Lists | ✅ |
-| [Day 5](Day-05) | Python Loops | 🟨 |
-| [Day 6](Day-06) | Python Functions & Karel | ⬜ |
+| [Day 5](Day-05) | Python Loops | ✅ |
+| [Day 6](Day-06) | Python Functions & Karel | 🟨 |
 | [Day 7](Day-07) | Hangman Project | ⬜ |
 | [Day 8](Day-08) | Function Parameters & Caesar Cipher | ⬜ |
 | [Day 9](Day-09) | Dictionaries, Nesting & Secret Auction | ⬜ |
