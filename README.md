@@ -9,7 +9,7 @@ This repository documents my journey through Angela Yu's **100 Days of Code: The
 
 - Build strong Python fundamentals
 - Complete all 100 projects
-- Improve problem-solving skills
+- Improve problem solving skills
 - Learn automation
 - Learn web development
 - Learn data science
