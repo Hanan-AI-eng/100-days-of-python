@@ -35,6 +35,7 @@ def easy():
             easy_attempt -= 1
         elif guess==number:
             print(f"You got it! The answer was {number}")
+            return
     print("You've run out of guesses. Refresh the page to run again.")
 
 def hard():
