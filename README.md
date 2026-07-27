@@ -30,10 +30,10 @@ This repository documents my journey through Angela Yu's **100 Days of Code: The
 | [Day 7](Day-07) | Hangman Project | ✅ |
 | [Day 8](Day-08) | Function Parameters & Caesar Cipher | ✅ |
 | [Day 9](Day-09) | Dictionaries, Nesting  | ✅ |
-| [Day 10](Day-10) | Functions with Outputs | 🟨 |
-| [Day 11](Day-11) | Blackjack Capstone Project | ⬜ |
-| [Day 12](Day-12) | Scope & Number Guessing Game | ⬜ |
-| [Day 13](Day-13) | Debugging | ⬜ |
+| [Day 10](Day-10) | Functions with Outputs | ✅ |
+| [Day 11](Day-11) | Blackjack Capstone Project | ✅ |
+| [Day 12](Day-12) | Scope & Number Guessing Game | ✅ |
+| [Day 13](Day-13) | Debugging | 🟨 |
 | [Day 14](Day-14) | Higher Lower Game | ⬜ |
 | [Day 15](Day-15) | Coffee Machine Project | ⬜ |
 | [Day 16](Day-16) | Object-Oriented Programming | ⬜ |
