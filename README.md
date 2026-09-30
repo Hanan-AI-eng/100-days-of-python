@@ -46,10 +46,10 @@ This repository documents my journey through Angela Yu's **100 Days of Code: The
 | [Day 23](Day-23) | Turtle Crossing Game | ✅ |
 | [Day 24](Day-24) | Files, Directories & Paths | ✅ |
 | [Day 25](Day-25) | Working with CSV & Pandas | ✅ |
-| [Day 26](Day-26) | List Comprehension | 🟨 |
-| [Day 27](Day-27) | Tkinter & GUI | ⬜ |
-| [Day 28](Day-28) | Pomodoro App | ⬜ |
-| [Day 29](Day-29) | Password Manager | ⬜ |
+| [Day 26](Day-26) | List Comprehension | ✅ |
+| [Day 27](Day-27) | Tkinter & GUI | ✅ |
+| [Day 28](Day-28) | Pomodoro App | ✅ |
+| [Day 29](Day-29) | Password Manager | 🟨 |
 | [Day 30](Day-30) | Errors, Exceptions & JSON | ⬜ |
 | [Day 31](Day-31) | Flash Card App | ⬜ |
 | [Day 32](Day-32) | Email Automation | ⬜ |
