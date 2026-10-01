@@ -74,7 +74,7 @@ website_Entry.grid(column=1,row=1,columnspan=2)
 website_Entry.focus()
 
 email_Entry=Entry(width=35)
-email_Entry.insert(0,"onea3259@gmail.com")
+email_Entry.insert(0,"1234@gmail.com")
 email_Entry.grid(column=1,row=2,columnspan=2)
 
 
